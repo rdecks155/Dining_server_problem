@@ -1,1 +1,1 @@
-"# Diner_server_problem" 
+My implementation of this problem illustrates the difference between using Java’s notify() solution vs. condition variables solution. This problem helps illustrate some potential synchronization issues when designing concurrent algorithms.
